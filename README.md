@@ -1,8 +1,8 @@
 Node-red palettes used:
-node-red
-node-red-contribute-moment
-node-red-contrib-ui-etable
-node-red-dashboard
+node-red,
+node-red-contribute-moment,
+node-red-contrib-ui-etable,
+node-red-dashboard,
 node-red-node-sqlite
 
 
